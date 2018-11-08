@@ -1,2 +1,2 @@
-# favoritefoods
-Thist is a list of my favorite foods
+#get-basics
+Practice with git
