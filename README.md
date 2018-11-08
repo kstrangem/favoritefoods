@@ -1,2 +1,2 @@
 # favoritefoods
-list of favorite foods
+Thist is a list of my favorite foods
